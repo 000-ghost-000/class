@@ -1,0 +1,3 @@
+# category of DBMS
+
+[https://documents.lucid.app/documents/cee76dc4-25c6-4752-9711-484e7c50ee4e/pages/0_0?a=1078&x=304&y=304&w=1707&h=464&store=1&accept=image%2F*&auth=LCA%20f6671543f3101b092618222adcffb0064a22d7da519c1eb30996283f6b599de8-ts%3D1721966188](https://documents.lucid.app/documents/cee76dc4-25c6-4752-9711-484e7c50ee4e/pages/0_0?a=1078&x=304&y=304&w=1707&h=464&store=1&accept=image%2F*&auth=LCA%20f6671543f3101b092618222adcffb0064a22d7da519c1eb30996283f6b599de8-ts%3D1721966188)

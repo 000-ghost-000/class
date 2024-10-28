@@ -1,0 +1,37 @@
+# to do
+
+- [x]  french viva
+- [x]  JAVA assignment
+- [ ]  java psda
+- [x]  java self work coding
+- [x]  bs assignment
+- [x]  bs lap
+- [x]  bs sap
+- [x]  hvco file
+- [x]  bs midsem
+- [x]  backdrop unnati
+- [x]  java self work written
+- [ ]  edp project
+- [x]  cybersecurity course 1
+- [x]  cybersecurity course 2
+- [x]  hvco completion certificate
+- [x]  hvco upload
+- [x]  wpr
+- [x]  amigo
+- [x]  skit
+- [ ]  lab file java
+- [ ]  lab file DBMS
+- [x]  coverpage java
+- [x]  coverpage bs
+- [x]  coverpage java
+- [x]  coverpage edp
+- [x]  coverpage bs
+- [x]  coverpage java
+- [x]  movie download unnati
+- [x]  music download unnati
+- [x]  HTML about page
+- [x]  add completion certificate to hvco file
+- [x]  anshika java self work
+- [x]  cybersecurity questions
+- [ ]  Bs ppt
+- [ ]

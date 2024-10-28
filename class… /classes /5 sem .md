@@ -1,0 +1,7 @@
+# 5 sem
+
+Status: Not started
+
+[5 sem…](5%20sem%201207927502b680dbbc1bfb5b75e483f9/5%20sem%E2%80%A6%201107927502b680eb9fe7cd40d023f765.md)
+
+[todo](5%20sem%201207927502b680dbbc1bfb5b75e483f9/todo%201207927502b680f4bba8c714c1c61bda.md)
